@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Packages>
+  <Pack>
+    <PackagesName>Hair Products </PackagesName>
+    <Includes>Shampoo,Conditioner,Serum</Includes>
+    <Price>1050</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Face Products</PackagesName>
+    <Includes>Foundation,Conceler,Primer</Includes>
+    <Price>2500</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Body Kit</PackagesName>
+    <Includes>De-Tan,Wax,Moisturizer</Includes>
+    <Price>7000</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Bridal Products</PackagesName>
+    <Includes>Branded</Includes>
+    <Price>8000</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Party Look Products</PackagesName>
+    <Includes>Full</Includes>
+    <Price>5000</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>NailArt</PackagesName>
+    <Includes>Extension</Includes>
+    <Price>500</Price>
+  </Pack>
+</Packages>
